@@ -1,0 +1,5 @@
+You can see vector embedding as a machine understanable format of data.
+
+NSW
+HNSW
+How to create vector embedding of the text 
